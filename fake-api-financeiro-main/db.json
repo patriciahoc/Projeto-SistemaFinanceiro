@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "jeni@jeni.com",
+      "password": "$2a$10$vuSB.BlPFKPAer9x8g.v/OVkDxERmC.RT3zUww9D2YzQfnkysPEN6",
+      "id": 1
+    }
+  ],
+  "register": [],
+  "finance": [
+    {
+      "type": "despesa",
+      "amount": "R$ 1020",
+      "id": 1
+    },
+    {
+      "type": "recebimento",
+      "amount": "R$ 1020",
+      "id": 2
+    }
+  ]
+}
