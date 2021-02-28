@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="container-header">
       <div className="image">
-        <a href="/">
+        <a href="#">
           <img src={Logo} alt="logo" />
         </a>
       </div>
@@ -15,7 +15,7 @@ const Header = () => {
           <a href="/acessar"> Login</a>
         </div>
         <div className="">
-          <a href="/">Nome</a>
+          <a href="/coins">Moedas</a>
         </div>
       </div>
     </div>
