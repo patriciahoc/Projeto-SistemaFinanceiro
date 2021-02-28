@@ -19,14 +19,37 @@
   "register": [],
   "finance": [
     {
-      "type": "despesa",
-      "amount": "R$ 1020",
-      "id": 1
+      "amount": "20",
+      "id": 2
     },
     {
+      "amount": "20",
+      "id": 3
+    },
+    {
+      "amount": "20",
+      "type": "despesa",
+      "id": 4
+    },
+    {
+      "amount": "20",
+      "type": "despesa",
+      "id": 5
+    },
+    {
+      "amount": "30",
       "type": "recebimento",
-      "amount": "R$ 1020",
-      "id": 2
+      "id": 6
+    },
+    {
+      "amount": "50",
+      "type": "recebimento",
+      "id": 7
+    },
+    {
+      "amount": "60",
+      "type": "recebimento",
+      "id": 8
     }
   ]
 }

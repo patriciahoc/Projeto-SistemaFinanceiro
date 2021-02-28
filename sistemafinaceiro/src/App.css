@@ -72,3 +72,18 @@ body {
   margin-bottom: 10px;
   cursor: pointer;
 }
+
+.despesas-container {
+  padding: 32px;
+}
+
+.despesas-container .despesas-form {
+  display: flex;
+}
+
+.despesas-container .despesas-container-form-item {
+  margin-right: 16px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: stretch;
+}

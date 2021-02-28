@@ -19,6 +19,7 @@ const usersReducer: Reducer = (state = INITIAL_STATE_USER, action: any) => {
       };
     case UserAction.POST_LOGIN_SUCCESS:
     case UserAction.POST_USER_SUCCESS:
+      localStorage.setItem("token", action.payload.data.accessToken);
       return {
         ...state,
         loading: false,
