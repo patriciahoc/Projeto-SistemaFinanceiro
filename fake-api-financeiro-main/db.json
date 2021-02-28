@@ -4,6 +4,16 @@
       "email": "jeni@jeni.com",
       "password": "$2a$10$vuSB.BlPFKPAer9x8g.v/OVkDxERmC.RT3zUww9D2YzQfnkysPEN6",
       "id": 1
+    },
+    {
+      "email": "patricia1@gmail.com",
+      "password": "$2a$10$1xB6F6kNQKiPqXHUG4j6ZuBmh75BDHvlWISye7eYolPeJBf1U/36.",
+      "id": 2
+    },
+    {
+      "email": "patricia2@gmail.com",
+      "password": "$2a$10$Iynz8rQtbCXF.AZRazF42..J6zL9e7ajUhlhqf05AoqRkdHzmGyJa",
+      "id": 3
     }
   ],
   "register": [],
