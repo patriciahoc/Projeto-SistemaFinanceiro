@@ -4,19 +4,52 @@
       "email": "jeni@jeni.com",
       "password": "$2a$10$vuSB.BlPFKPAer9x8g.v/OVkDxERmC.RT3zUww9D2YzQfnkysPEN6",
       "id": 1
+    },
+    {
+      "email": "patricia1@gmail.com",
+      "password": "$2a$10$1xB6F6kNQKiPqXHUG4j6ZuBmh75BDHvlWISye7eYolPeJBf1U/36.",
+      "id": 2
+    },
+    {
+      "email": "patricia2@gmail.com",
+      "password": "$2a$10$Iynz8rQtbCXF.AZRazF42..J6zL9e7ajUhlhqf05AoqRkdHzmGyJa",
+      "id": 3
     }
   ],
   "register": [],
   "finance": [
     {
-      "type": "despesa",
-      "amount": "R$ 1020",
-      "id": 1
+      "amount": "20",
+      "id": 2
     },
     {
+      "amount": "20",
+      "id": 3
+    },
+    {
+      "amount": "20",
+      "type": "despesa",
+      "id": 4
+    },
+    {
+      "amount": "20",
+      "type": "despesa",
+      "id": 5
+    },
+    {
+      "amount": "30",
       "type": "recebimento",
-      "amount": "R$ 1020",
-      "id": 2
+      "id": 6
+    },
+    {
+      "amount": "50",
+      "type": "recebimento",
+      "id": 7
+    },
+    {
+      "amount": "60",
+      "type": "recebimento",
+      "id": 8
     }
   ]
 }

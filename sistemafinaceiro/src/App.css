@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container-header {
+  display: flex;
+  padding: 10px 0 5px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #dfe6e9;
+  height: 100px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar a {
+  margin-right: 20px;
+}
+.image img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+}
+
+.login-container {
+  width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.login-container .formulario {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+}
+
+.login-container .formulario input {
+  margin-top: 16px;
+}
+
+.login-container .formulario button {
+  margin-top: 16px;
+}
+
+.container-moeda {
+  width: 1024px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.container-moeda .lista-moeda,
+.container-moeda .detalhes-moeda {
+  width: 512px;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.lista-moeda ul {
+  max-height: 400px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.lista-moeda ul li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.despesas-container {
+  padding: 32px;
+}
+
+.despesas-container .despesas-form {
+  display: flex;
+}
+
+.despesas-container .despesas-container-form-item {
+  margin-right: 16px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: stretch;
+}
